@@ -1,0 +1,11 @@
+{
+    "game_name": "Example Game",
+    "minimum_requirements": {
+      "os": "Windows 10",
+      "processor": "AMD Ryzen 5 5600X @ 3.7 GHz",
+      "memory": 8,
+      "graphics": " AMD Radeon RX 6800",
+      "directx": 10,
+      "storage": 50
+    }
+  }
