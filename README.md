@@ -7,3 +7,5 @@
  - Run the program
  - The program will display whether or not your computer can run the game, along with recommendations for upgrading your computer's specifications if necessary. 
 ```
+## Output Example
+![image.png](https://media.discordapp.net/attachments/1165965625026416640/1247504588836307004/image.png)
